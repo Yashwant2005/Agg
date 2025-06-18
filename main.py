@@ -27,7 +27,7 @@ session_file_name = 'your_sessssssion.session' # Use a descriptive session file 
 # --- Bot Configuration ---
 POKEZONE_BOT_ID = 572621020 # The integer ID of the PokeZone bot
 YOUR_NOTIFICATION_CHAT_ID = -1002245132909 # Your chat/group ID for notifications
-SCHEDULE_TIME = "14:50" # Time to run daily, e.g., "18:00" for 6 PM. Ensure HH:MM format.
+SCHEDULE_TIME = "14:53" # Time to run daily, e.g., "18:00" for 6 PM. Ensure HH:MM format.
 
 # --- Dynamic State Variables (managed per cycle) ---
 class BotPhase(Enum):
